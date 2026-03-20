@@ -1,2 +1,3 @@
-# super-booking-system-0b8z
-Automated issue comment bot repository
+# Super Booking System 0B8Z
+
+Automated issue comment bot repository.
